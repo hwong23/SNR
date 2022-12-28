@@ -116,7 +116,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8027d845b74747838ff25b67917b3067"
-        targetConnections="id-4cbef120bf4e451591042b2bc22129c8 id-046087b1788b4f4ca94c49c3b2e9f0f4">
+        targetConnections="id-4cbef120bf4e451591042b2bc22129c8 id-046087b1788b4f4ca94c49c3b2e9f0f4 id-cd0bb8ab541143f19996431a1b4a4e59">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-fdb1eab9aaf749cf9d531130d2fa2774"
@@ -321,27 +321,6 @@
           xsi:type="archimate:DataObject"
           href="DataObject_id-43b2f48a93e14292a9a1cc5e0f045987.xml#id-43b2f48a93e14292a9a1cc5e0f045987"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-595200a646354a92835b07402b53f802"
-        textAlignment="1"
-        content="relación implícita&#xA;">
-      <sourceConnections
-          id="id-e1c310568f804c8094fae8e82843fb18"
-          source="id-595200a646354a92835b07402b53f802"
-          target="id-6b880320f44d4e85a31b9f59d9ebf7a0">
-        <bendpoints
-            startX="116"
-            startY="-8"
-            endX="-96"
-            endY="100"/>
-      </sourceConnections>
-      <bounds
-          x="24"
-          y="96"
-          width="131"
-          height="31"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-e58aa6c400e643948e054d49532b5015.xml#id-e58aa6c400e643948e054d49532b5015"/>
@@ -390,7 +369,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-6b880320f44d4e85a31b9f59d9ebf7a0"
-          targetConnections="id-e1c310568f804c8094fae8e82843fb18"
+          targetConnections="id-755db052000240e7a84928fd14edd831"
           lineColor="#007aff"
           source="id-23405a6b1d5d4a98a21af99b1ea4aa7c"
           target="id-09edcd7ee13e49d9b9918b53a3d216ed">
@@ -531,5 +510,35 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-ff528f0076d941f1b77ab0d85d135c0b.xml#id-ff528f0076d941f1b77ab0d85d135c0b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fd90e2e4b0bd4422a95aac05f4156745"
+      textAlignment="1"
+      content="Divipola">
+    <sourceConnections
+        id="id-cd0bb8ab541143f19996431a1b4a4e59"
+        source="id-fd90e2e4b0bd4422a95aac05f4156745"
+        target="id-8027d845b74747838ff25b67917b3067"/>
+    <bounds
+        x="1104"
+        y="264"
+        width="131"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-595200a646354a92835b07402b53f802"
+      textAlignment="1"
+      content="relación implícita&#xA;">
+    <sourceConnections
+        id="id-755db052000240e7a84928fd14edd831"
+        source="id-595200a646354a92835b07402b53f802"
+        target="id-6b880320f44d4e85a31b9f59d9ebf7a0"/>
+    <bounds
+        x="-168"
+        y="900"
+        width="131"
+        height="31"/>
   </children>
 </archimate:ArchimateDiagramModel>
