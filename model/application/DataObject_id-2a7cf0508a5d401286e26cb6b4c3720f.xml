@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIR.Ciudadano"
+    id="id-2a7cf0508a5d401286e26cb6b4c3720f"
+    documentation="id_ciudadano : secuencia&#xA;tipo documento&#xA;no. documento&#xA;primer apellido (para jurídicas)&#xA;segundo apellido&#xA;nombre&#xA;sexo&#xA;&#xA;**Notas**&#xA;76 millones de registros.&#xA;"/>

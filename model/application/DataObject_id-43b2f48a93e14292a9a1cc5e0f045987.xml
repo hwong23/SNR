@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIR.Folio"
+    id="id-43b2f48a93e14292a9a1cc5e0f045987"
+    documentation="area predio : clob&#xA;lindero : clob&#xA;campos de área : área, metro, centímetro&#xA;id_matrícula&#xA;&#xA;**Nota**&#xA;10 millones de registros.&#xA;"/>

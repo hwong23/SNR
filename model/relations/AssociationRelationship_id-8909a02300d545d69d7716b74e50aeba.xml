@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="id_dirección"
+    id="id-8909a02300d545d69d7716b74e50aeba">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-cfda36ec49944a378e651393e71b707e.xml#id-cfda36ec49944a378e651393e71b707e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-43b2f48a93e14292a9a1cc5e0f045987.xml#id-43b2f48a93e14292a9a1cc5e0f045987"/>
+</archimate:AssociationRelationship>

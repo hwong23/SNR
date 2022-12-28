@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="id_zona registral"
+    id="id-fc7f1b95e0f5486aba1d8d86929633ec">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-50a10fc6f0e04920abc99bbf4a82c429.xml#id-50a10fc6f0e04920abc99bbf4a82c429"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-7a661b9103064006b466b5e6873f0b52.xml#id-7a661b9103064006b466b5e6873f0b52"/>
+</archimate:AssociationRelationship>

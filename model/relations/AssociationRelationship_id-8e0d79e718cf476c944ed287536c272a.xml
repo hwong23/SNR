@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="id_ciudadano"
+    id="id-8e0d79e718cf476c944ed287536c272a">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2a7cf0508a5d401286e26cb6b4c3720f.xml#id-2a7cf0508a5d401286e26cb6b4c3720f"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-95343c5696c847ba88eefe4c8c40fb4b.xml#id-95343c5696c847ba88eefe4c8c40fb4b"/>
+</archimate:AssociationRelationship>
