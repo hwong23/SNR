@@ -67,6 +67,21 @@
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-f8c6cb8eff1c405c85b3db38a2238e83.xml#id-f8c6cb8eff1c405c85b3db38a2238e83"/>
       </sourceConnections>
+      <sourceConnections
+          id="id-a9e864d8274940e78406129cd415bdef"
+          source="id-c249315c3b754f19b83179747bd8ed43"
+          target="id-19c68f46f41347b78b78868e04b26ee3">
+        <bendpoints
+            startX="224"
+            startY="9"
+            endX="-228"
+            endY="-27"/>
+        <bendpoints
+            startX="308"
+            startY="21"
+            endX="-144"
+            endY="-3"/>
+      </sourceConnections>
       <bounds
           x="84"
           y="48"
@@ -103,6 +118,16 @@
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-bc7031a4e2e348889b4482b764a0ae4d.xml#id-bc7031a4e2e348889b4482b764a0ae4d"/>
+      </sourceConnections>
+      <sourceConnections
+          id="id-09b87f16d8df4adba50e4308a71c0c72"
+          source="id-7a979a7eba38498090d721c8efffeb70"
+          target="id-66f5565a56a54b029a2d2c76dab0501d">
+        <bendpoints
+            startX="260"
+            startY="165"
+            endX="-192"
+            endY="-6"/>
       </sourceConnections>
       <bounds
           x="84"
@@ -597,5 +622,29 @@
         y="371"
         width="145"
         height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-19c68f46f41347b78b78868e04b26ee3"
+      targetConnections="id-a9e864d8274940e78406129cd415bdef"
+      textAlignment="1"
+      content="76 millones de registros">
+    <bounds
+        x="1104"
+        y="156"
+        width="145"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-66f5565a56a54b029a2d2c76dab0501d"
+      targetConnections="id-09b87f16d8df4adba50e4308a71c0c72"
+      textAlignment="1"
+      content="10 millones de registros">
+    <bounds
+        x="1104"
+        y="432"
+        width="145"
+        height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>
